@@ -1,4 +1,6 @@
-This is by developer 1
+This is manupulated by dev2 
 Feature implemented by developer 2
 log in features by dev3
 This is once again by dev3
+This is once again from dev2
+
